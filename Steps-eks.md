@@ -29,7 +29,7 @@ IAMFullAccess
 ```
 Attach this policy to your user as well
 
-![Policies To Attach](https://github.com/jaiswaladi2468/Batch-2-DevSecOps-Cloud-DevOps/blob/main/12.%20Kubernetes/EKS%2BJENKINS/Policies.png)
+![Policies To Attach](https://github.com/jaiswaladi246/EKS-Complete/blob/main/Policies.png)
 
 # AWSCLI
 
