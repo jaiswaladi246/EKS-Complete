@@ -125,6 +125,7 @@ rules:
         - rbac.authorization.k8s.io
     resources:
       - pods
+      - secrets
       - componentstatuses
       - configmaps
       - daemonsets
