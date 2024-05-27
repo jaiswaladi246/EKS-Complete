@@ -64,6 +64,7 @@ eksctl version
 eksctl create cluster --name=my-eks22 \
                       --region=ap-south-1 \
                       --zones=ap-south-1a,ap-south-1b \
+                      --version=1.30 \
                       --without-nodegroup
 
 eksctl utils associate-iam-oidc-provider \
