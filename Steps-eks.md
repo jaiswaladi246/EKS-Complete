@@ -139,7 +139,6 @@ rules:
       - limitranges
       - namespaces
       - nodes
-      - pods
       - persistentvolumes
       - persistentvolumeclaims
       - resourcequotas
